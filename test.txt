@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 146A-8328
+
+ Directory of C:\Users\chandankumar01\Desktop\Git
+
+14-05-2020  11:42    <DIR>          .
+14-05-2020  11:42    <DIR>          ..
+14-05-2020  11:43                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  61,931,597,824 bytes free
